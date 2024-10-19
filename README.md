@@ -46,9 +46,8 @@ My journey has led me to develop a passion for cybersecurity, and I am now more 
 <div>
 <img src="https://img.shields.io/badge/-CC-000000?&style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-CAP-FF5733?&style=for-the-badge&logo=SECOPS&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Datto%20RMM%20Certified%20Administrator-1E90FF?&style=for-the-badge&logo=datto&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20IT-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ## Projects
