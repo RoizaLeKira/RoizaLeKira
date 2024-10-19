@@ -1,8 +1,6 @@
 # Hello, My name's Mohammed
 <a href="https://www.linkedin.com/in/mohammed-adel-65a603332/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I'm a college student with a big interest in cybersecurity and the whole tech field.
 
 ## Objective
