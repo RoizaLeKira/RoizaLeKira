@@ -4,12 +4,10 @@
 I'm a college student with a big interest in cybersecurity and the whole tech field.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey has led me to develop a passion for cybersecurity, and I am now more than ready to get into this field, specifically aiming to join a Security Operations Center (SOC) as an Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
