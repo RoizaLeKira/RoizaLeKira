@@ -70,10 +70,10 @@ My journey has led me to develop a passion for cybersecurity, and I am now more 
         <img src="https://img.shields.io/badge/-Cybersecurity%20awareness%20For%20Juniors%20and%20elderly-FF5722?&style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
       <a href="https://mofoliokira.blogspot.com/2024/10/what-is-social-engineering-and-why-is.html">
-        <img src="https://img.shields.io/badge/-Wireshark%20Tutorial-1679A7?&style=for-the-badge&logo=blogger&logoColor=white" />
+        <img src="https://img.shields.io/badge/-What%20is%20social%20engineering%20and%20why%20is%20it%20a%20big%20issue%20in%20the%20cyber-space-1679A7?&style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
       <a href="https://mofoliokira.blogspot.com/2024/10/deeper-look-into-firewalls-and-their.html">
-        <img src="https://img.shields.io/badge/-Burp%20Suite%20Vulnerability%20Analysis-4CAF50?&style=for-the-badge&logo=blogger&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Deeper%20look%20into%20firewalls%20and%20their%20diffrentiators-4CAF50?&style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
   </div>
 
