@@ -65,9 +65,9 @@ My journey has led me to develop a passion for cybersecurity, and I am now more 
 
   <!-- Technical Blog Posts Section -->
   <div style="flex-basis: 48%;">
-      <h3>Technical Blog Posts</h3>
+      <h3>Theoretical Blog Posts</h3>
       <a href="https://mofoliokira.blogspot.com/2024/10/cybersecurity-awareness-for-juniors-and.html">
-        <img src="https://img.shields.io/badge/-Tech%20Demo%20in%20Cybersecurity-FF5722?&style=for-the-badge&logo=blogger&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Cybersecurity%20awareness%20For%20Juniors%20and%20elderly-FF5722?&style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
       <a href="https://mofoliokira.blogspot.com/2024/10/what-is-social-engineering-and-why-is.html">
         <img src="https://img.shields.io/badge/-Wireshark%20Tutorial-1679A7?&style=for-the-badge&logo=blogger&logoColor=white" />
@@ -79,7 +79,7 @@ My journey has led me to develop a passion for cybersecurity, and I am now more 
 
   <!-- Theoretical Blog Posts Section -->
   <div style="flex-basis: 48%;">
-      <h3>Theoretical Blog Posts</h3>
+      <h3>technical Blog Posts</h3>
       <a href="https://mofoliokiratech.blogspot.com/2024/10/pcap-or-cap-technical-demo-on-how-we.html">
         <img src="https://img.shields.io/badge/-Security%20Awareness%20for%20Everyone-0084FF?&style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
