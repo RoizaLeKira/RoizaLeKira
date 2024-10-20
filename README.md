@@ -57,9 +57,7 @@ My journey has led me to develop a passion for cybersecurity, and I am now more 
 
 # My Projects
 
-Welcome to my projects showcase! Here are some of the key projects I have developed:
-
-## 🚀 Projects
+Some simple projects I have been workning:
 
 - **[Port Scanner](https://github.com/RoizaLeKira/port_scanner)**: A simple command-line tool for scanning open ports on a target IP address.
   
