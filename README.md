@@ -55,9 +55,17 @@ My journey has led me to develop a passion for cybersecurity, and I am now more 
 <img src="https://img.shields.io/badge/-Google%20IT-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+# My Projects
+
+Welcome to my projects showcase! Here are some of the key projects I have developed:
+
+## 🚀 Projects
+
+- **[Port Scanner](https://github.com/RoizaLeKira/port_scanner)**: A simple command-line tool for scanning open ports on a target IP address.
+  
+- **[Password Checker](https://github.com/RoizaLeKira/password_checker)**: A script that evaluates the strength of user-entered passwords based on various criteria.
+  
+- **[File Integrity Monitor](https://github.com/RoizaLeKira/file_integrity_monitor)**: A tool that monitors changes to a specified file and logs any modifications detected.
 
 ### Blog Posts
 
