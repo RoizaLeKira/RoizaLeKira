@@ -3,7 +3,7 @@
 <a href="https://draft.blogger.com/profile/15106219692456843948"><img src="https://img.shields.io/badge/-Blogger-FF5722?&style=for-the-badge&logo=blogger&logoColor=white" /></a>
 
 
-I'm a college student with a big interest in cybersecurity and the whole tech field.
+I'm a college student with a big interest in cybersecurity and the whole tech field, i attended various Events in ITI and NTI and amazing webinars by other various companies, as well as i have done a lot of training in the cybersecurity field, specfically the SOC field, i did the cybertalents bootcamp, the ITI summercamp, the wilses internship, and a tech support internship.
 
 ## Objective
 
