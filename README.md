@@ -27,6 +27,13 @@ My journey has led me to develop a passion for cybersecurity, and I am now more 
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
+### Firewall
+<div>
+     <img src="https://img.shields.io/badge/-Palo%20Alto-0084FF?&style=for-the-badge&logo=Palo-Alto-Networks&logoColor=white" />
+     <img src="https://img.shields.io/badge/-FortiGate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+
+</div>
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
