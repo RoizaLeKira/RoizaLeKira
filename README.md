@@ -11,13 +11,13 @@ My journey has led me to develop a passion for cybersecurity, and I am now more 
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network analysis and exfilitration | <a href="https://google.com">Detection Lab</a>|
-| Firewall configuration        | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                          |
+|---------------------------------------------------------------------------|
+| SIEM Implementation and Log Analysis          |
+| Network analysis and exfilitration |
+| Firewall configuration        |
+| Incident Response Planning and Execution     |
+| Scripting and Automation for Threat Mitigation |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
