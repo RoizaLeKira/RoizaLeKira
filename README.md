@@ -20,7 +20,6 @@ My journey has led me to develop a passion for cybersecurity, and I am now more 
 | Scripting and Automation for Threat Mitigation |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -48,7 +47,7 @@ My journey has led me to develop a passion for cybersecurity, and I am now more 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-CC-000000?&style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-CAP-FF5733?&style=for-the-badge&logo=SECOPS&logoColor=white" />
