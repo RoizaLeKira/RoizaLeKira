@@ -66,13 +66,13 @@ My journey has led me to develop a passion for cybersecurity, and I am now more 
   <!-- Technical Blog Posts Section -->
   <div style="flex-basis: 48%;">
       <h3>Technical Blog Posts</h3>
-      <a href="https://your-blogpost-link-1">
+      <a href="https://mofoliokira.blogspot.com/2024/10/cybersecurity-awareness-for-juniors-and.html">
         <img src="https://img.shields.io/badge/-Tech%20Demo%20in%20Cybersecurity-FF5722?&style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
-      <a href="https://your-blogpost-link-2">
+      <a href="https://mofoliokira.blogspot.com/2024/10/what-is-social-engineering-and-why-is.html">
         <img src="https://img.shields.io/badge/-Wireshark%20Tutorial-1679A7?&style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
-      <a href="https://your-blogpost-link-3">
+      <a href="https://mofoliokira.blogspot.com/2024/10/deeper-look-into-firewalls-and-their.html">
         <img src="https://img.shields.io/badge/-Burp%20Suite%20Vulnerability%20Analysis-4CAF50?&style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
   </div>
@@ -80,13 +80,13 @@ My journey has led me to develop a passion for cybersecurity, and I am now more 
   <!-- Theoretical Blog Posts Section -->
   <div style="flex-basis: 48%;">
       <h3>Theoretical Blog Posts</h3>
-      <a href="https://your-blogpost-link-4">
+      <a href="https://mofoliokiratech.blogspot.com/2024/10/pcap-or-cap-technical-demo-on-how-we.html">
         <img src="https://img.shields.io/badge/-Security%20Awareness%20for%20Everyone-0084FF?&style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
-      <a href="https://your-blogpost-link-5">
+      <a href="https://mofoliokiratech.blogspot.com/2024/10/surface-level-look-into-networking.html">
         <img src="https://img.shields.io/badge/-Firewalls%20and%20Comparisons-777BB4?&style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
-      <a href="https://your-blogpost-link-6">
+      <a href="https://mofoliokiratech.blogspot.com/2024/10/john-ripper-extremely-surface-level.html">
         <img src="https://img.shields.io/badge/-Understanding%20Cyber%20Threats-EE3124?&style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
   </div>
