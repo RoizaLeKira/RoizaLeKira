@@ -1,5 +1,7 @@
 # Hello, My name's Mohammed
 <a href="https://www.linkedin.com/in/mohammed-adel-65a603332/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://draft.blogger.com/profile/15106219692456843948"><img src="https://img.shields.io/badge/-Blogger-FF5722?&style=for-the-badge&logo=blogger&logoColor=white" /></a>
+
 
 I'm a college student with a big interest in cybersecurity and the whole tech field.
 
