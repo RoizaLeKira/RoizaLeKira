@@ -63,33 +63,32 @@ My journey has led me to develop a passion for cybersecurity, and I am now more 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
-  <!-- Technical Blog Posts Section -->
+  <!-- Theoretical Blog Posts Section -->
   <div style="flex-basis: 48%;">
       <h3>Theoretical Blog Posts</h3>
       <a href="https://mofoliokira.blogspot.com/2024/10/cybersecurity-awareness-for-juniors-and.html">
-        <img src="https://img.shields.io/badge/-Cybersecurity%20awareness%20For%20Juniors%20and%20elderly-FF5722?&style=for-the-badge&logo=blogger&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Cybersecurity%20awareness%20for%20Juniors%20and%20Elderly-FF5722?&style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
       <a href="https://mofoliokira.blogspot.com/2024/10/what-is-social-engineering-and-why-is.html">
-        <img src="https://img.shields.io/badge/-What%20is%20social%20engineering%20and%20why%20is%20it%20a%20big%20issue%20in%20the%20cyber-space-1679A7?&style=for-the-badge&logo=blogger&logoColor=white" />
+        <img src="https://img.shields.io/badge/-What%20is%20Social%20Engineering%20and%20Why%20is%20it%20a%20Big%20Issue%20in%20the%20Cyber-Space-1679A7?&style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
       <a href="https://mofoliokira.blogspot.com/2024/10/deeper-look-into-firewalls-and-their.html">
-        <img src="https://img.shields.io/badge/-Deeper%20look%20into%20firewalls%20and%20their%20diffrentiators-4CAF50?&style=for-the-badge&logo=blogger&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Deeper%20Look%20into%20Firewalls%20and%20Their%20Differentiators-4CAF50?&style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
   </div>
 
-  <!-- Theoretical Blog Posts Section -->
+  <!-- Technical Blog Posts Section -->
   <div style="flex-basis: 48%;">
-      <h3>technical Blog Posts</h3>
+      <h3>Technical Blog Posts</h3>
       <a href="https://mofoliokiratech.blogspot.com/2024/10/pcap-or-cap-technical-demo-on-how-we.html">
-        <img src="https://img.shields.io/badge/-Security%20Awareness%20for%20Everyone-0084FF?&style=for-the-badge&logo=blogger&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PCAP%20or%20CAP%3F%20Technical%20Demo%20on%20How%20We%20Capture%20Packets-0084FF?&style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
       <a href="https://mofoliokiratech.blogspot.com/2024/10/surface-level-look-into-networking.html">
-        <img src="https://img.shields.io/badge/-Firewalls%20and%20Comparisons-777BB4?&style=for-the-badge&logo=blogger&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Surface-Level%20Look%20into%20Networking%20with%20Packet%20Tracers-777BB4?&style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
       <a href="https://mofoliokiratech.blogspot.com/2024/10/john-ripper-extremely-surface-level.html">
-        <img src="https://img.shields.io/badge/-Understanding%20Cyber%20Threats-EE3124?&style=for-the-badge&logo=blogger&logoColor=white" />
+        <img src="https://img.shields.io/badge/-John%20the%20Ripper%3A%20Extremely%20Surface-Level%20Password%20Cracking%20Demo-EE3124?&style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
   </div>
 
 </div>
-
